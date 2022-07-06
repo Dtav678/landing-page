@@ -88,3 +88,55 @@ img[src="./images/mexican-girl.jpg"] {
     padding-right: 80px;
 }
 /*--------------------------------------------------------------------------------------------------------------------------------------------------------*/
+
+.container-3 {
+    padding-top: 100px;
+    text-align: center;
+    padding-bottom: 10em;
+}
+
+.header-2 {
+    font-size: 36px;
+    font-weight: 900;
+    margin-bottom: 32px;
+}
+
+.container-4 {
+    display: flex;
+    justify-content: center;
+    gap: 52px;
+}
+
+.info {
+    max-width: 300px;
+}
+
+.text-1 {
+    font-size: 30px;
+    padding-top: 20px;
+}
+
+ 
+img[src="./images/burrito.jpg"] {
+    height: 300px;
+    width: 300px;
+    border-radius: 8px;
+}
+
+img[src="./images/tacos.jpg"] {
+    height: 300px;
+    width: 300px;
+    border-radius: 8px;
+}
+
+img[src="./images/tostadas.jpg"] {
+    height: 300px;
+    width: 300px;
+    border-radius: 8px;
+}
+
+img[src="./images/nachos.jpg"] {
+    height: 300px;
+    width: 300px;
+    border-radius: 8px;
+}
