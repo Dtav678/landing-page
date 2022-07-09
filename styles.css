@@ -77,7 +77,6 @@ button.order {
     display: flex;
     justify-content: center;
     align-items: center;
-
 }
 */
 
@@ -87,12 +86,12 @@ img[src="./images/mexican-girl.jpg"] {
     border-radius: 8px;
     padding-right: 80px;
 }
-/*--------------------------------------------------------------------------------------------------------------------------------------------------------*/
+/*--------------------------------------------------------------------------------------------------------------------------------------*/
 
 .container-3 {
     padding-top: 100px;
     text-align: center;
-    padding-bottom: 10em;
+    padding-bottom: 1em; /*10em*/
 }
 
 .header-2 {
@@ -139,4 +138,34 @@ img[src="./images/nachos.jpg"] {
     height: 300px;
     width: 300px;
     border-radius: 8px;
+}
+/*--------------------------------------------------------------------------------------------------------------------------------------*/
+
+.container-5 {
+    background-color: #E5E7EB;
+    margin: 400px;
+    display: flex;
+    justify-content: center;
+}
+
+.quote {
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
+    flex-direction: column;
+    width: 700px;
+    padding-top: 4em;
+    padding-bottom: 4em;
+    display: flex;
+    /*justify-content: center;
+    align-items: center; */
+}
+
+.quote-person {
+    font-size: 25px;
+    color: #1F2937;
+    display: flex;
+    padding-top: 20px;
+    margin-right: 20px;
+    justify-content: flex-end;
 }
